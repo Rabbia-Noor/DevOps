@@ -5,9 +5,6 @@
 **Submission directory:** `Labs/Lab03`  
 **Screenshot directory:** `Labs/Lab03/screenshots`
 
-This line was added locally.
-
-
 Complete the practical work in the repository required by each task. Submit all evidence to your GitHub repository named exactly `DevOps` using the directory structure shown below.
 
 ```text
@@ -904,6 +901,10 @@ In this lab, you practiced a broad range of advanced Git commands and real-world
 You now have hands-on experience with advanced Git commands, conflict resolution, repository management, cloud-based development environments, and static site hosting—all essential skills for modern DevOps and collaborative software development.
 
 ---
+
+
+This line was added locally.
+
 
 ## Submission
 - Upload a **Word file and PDF or .md file** containing:
