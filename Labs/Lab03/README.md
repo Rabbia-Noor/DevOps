@@ -5,9 +5,7 @@
 **Submission directory:** `Labs/Lab03`  
 **Screenshot directory:** `Labs/Lab03/screenshots`
 
-
-
-
+This line was added remotely from GitHub.
 
 
 
