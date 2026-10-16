@@ -1,5 +1,5 @@
 # 🧪 Lab 3 – Working with Git History, Stashing, and Reverting Commits
-This line was added remotely from GitHub.
+
 **Estimated duration:** 3 hours  
 **Submission repository:** `DevOps`  
 **Submission directory:** `Labs/Lab03`  
