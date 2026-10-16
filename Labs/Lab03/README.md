@@ -903,8 +903,6 @@ You now have hands-on experience with advanced Git commands, conflict resolution
 ---
 
 
-This line was added locally.
-
 
 ## Submission
 - Upload a **Word file and PDF or .md file** containing:
