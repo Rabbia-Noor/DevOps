@@ -1,5 +1,5 @@
 # 🧪 Lab 3 – Working with Git History, Stashing, and Reverting Commits
-
+This line was added remotely from GitHub.
 **Estimated duration:** 3 hours  
 **Submission repository:** `DevOps`  
 **Submission directory:** `Labs/Lab03`  
@@ -901,7 +901,7 @@ In this lab, you practiced a broad range of advanced Git commands and real-world
 You now have hands-on experience with advanced Git commands, conflict resolution, repository management, cloud-based development environments, and static site hosting—all essential skills for modern DevOps and collaborative software development.
 
 ---
-This line was updated remotely again.
+
 ## Submission
 - Upload a **Word file and PDF or .md file** containing:
   - Step outputs or terminal screenshots for each task  
