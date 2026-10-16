@@ -5,10 +5,7 @@
 **Submission directory:** `Labs/Lab03`  
 **Screenshot directory:** `Labs/Lab03/screenshots`
 
-
-
-
-
+This line was added locally.
 
 
 Complete the practical work in the repository required by each task. Submit all evidence to your GitHub repository named exactly `DevOps` using the directory structure shown below.
