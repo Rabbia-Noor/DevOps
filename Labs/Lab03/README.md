@@ -5,7 +5,7 @@
 **Submission directory:** `Labs/Lab03`  
 **Screenshot directory:** `Labs/Lab03/screenshots`
 
-This line was added remotely from GitHub.
+This line was updated remotely again.
 
 
 This line was added remotely for the rebase exercise.
