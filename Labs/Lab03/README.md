@@ -918,6 +918,11 @@ This line was added locally.
 This line was added locally for the rebase exercise.
 
 
+Task 6 test line 1 - First commit.
+
+
+
+
 
 
 ## Submission
