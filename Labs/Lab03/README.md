@@ -920,6 +920,14 @@ This line was added locally for the rebase exercise.
 
 Task 6 test line 1 - First commit.
 
+Task 7 - Initial change for amend commit.
+
+Task 7 - Additional change included by amend.
+
+
+
+
+
 
 
 
