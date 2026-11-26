@@ -1,7 +1,7 @@
 FROM ubuntu
 LABEL maintainer="rabbianoor01@gmail.com"
 RUN apt-get update && apt-get install -y python3
-ENV PAGE_TITLE="Hello from DevOps"
+ENV PAGE_TITLE="DevOps"
 WORKDIR /app
 RUN echo "<title>$PAGE_TITLE</title><h1>I am a DevOps engineer</h1>" > index.html
 EXPOSE 3000
